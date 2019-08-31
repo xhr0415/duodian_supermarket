@@ -5,15 +5,14 @@
   还有一个对于内部人员的一个后台管理系统。
  
 ### 技术栈：
- 
- 前端：
-    html5 + css、
-    vue框架、
-    axios、
-    vant ui库、
-    vueg 转场动画、
-    谷歌定位插件、
-  
-  后端：
-    egg 框架、
-    mysql 数据库
+   前端：
+      html5 + css、
+      vue框架、
+      axios、
+      vant ui库、
+      vueg 转场动画、
+      谷歌定位插件、
+
+    后端：
+      egg 框架、
+      mysql 数据库
