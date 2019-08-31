@@ -32,12 +32,16 @@
       main.js       //入口文件
       
 ### 指令：
-     启动客户端(demo里)：
-        npm run serve
-     启动后端(duodian-server里)： 
-        npm run dev 
-     启动后端接收验证码(duodian-server里)：
-        npm run checkServer
+ 启动客户端(demo里)：
+ 
+    npm run serve
+ 启动后台(duodian-server里)： 
+ 
+    npm run dev 
+ 启动后台接收验证码(duodian-server里)：
+ 
+    npm run checkServer
      
-     启动后端管理系统(demo_typescript里)： 
-        npm run serve
+ 启动后端管理系统(demo_typescript里)： 
+ 
+    npm run serve
